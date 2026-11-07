@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Controlla sito (JSON e link)",
+      "type": "shell",
+      "command": "python",
+      "args": ["scripts/check.py"],
+      "group": { "kind": "test", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Pubblica (check + commit + push)",
+      "type": "shell",
+      "command": "python scripts/check.py && git add -A && git commit -m \"Aggiornamento sito\" && git push",
+      "group": "build",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# Controllo automatico ad ogni push: verifica JSON e link locali.
+# La pubblicazione la fa GitHub Pages da sola (Settings → Pages → Deploy from a branch).
+# Se il controllo fallisce ricevi una email e vedi la X rossa nella scheda Actions.
+
+name: Controllo sito
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  verifica:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Controllo JSON e link locali
+        run: python scripts/check.py
