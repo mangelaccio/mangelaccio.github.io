@@ -1,0 +1,74 @@
+[
+  {
+    "id": "geocruscotto",
+    "title": "GeoCruscotto",
+    "description": {
+      "it": "Paradigma di dashboard geospaziale con AI agentica (Intent → Slot → Widget → Conferma), applicato a destinazioni turistiche, filiere rurali e smart city.",
+      "en": "Geospatial dashboard paradigm with agentic AI (Intent → Slot → Widget → Confirmation), applied to tourist destinations, rural supply chains and smart cities."
+    },
+    "tags": ["Agentic AI", "Leaflet.js", "Dashboard"],
+    "url": "",
+    "year": 2024,
+    "status": "attivo"
+  },
+  {
+    "id": "lazio-lento",
+    "title": "Lazio Lento",
+    "description": {
+      "it": "Archivio web di smart tour per il turismo lento nel Lazio, base integrata che accoglie i geocruscotti delle singole destinazioni.",
+      "en": "Web archive of smart tours for slow tourism in Lazio, an integrated base hosting the geocruscotti of individual destinations."
+    },
+    "tags": [{ "it": "Turismo lento", "en": "Slow tourism" }, "Webapp"],
+    "url": "",
+    "year": 2024,
+    "status": "attivo"
+  },
+  {
+    "id": "sannio-antiquum",
+    "title": "Sannio Antiquum",
+    "description": {
+      "it": "Progetto di digital humanities: dalle Memorie historiche del Sannio di Ciarlanti (1644) a una guida e a una mappa interattiva dei luoghi sanniti.",
+      "en": "Digital humanities project: from Ciarlanti's Memorie historiche del Sannio (1644) to a guidebook and an interactive map of Samnite places."
+    },
+    "tags": ["Digital humanities", "OCR", { "it": "Mappe", "en": "Maps" }],
+    "url": "",
+    "year": 2025,
+    "status": "attivo"
+  },
+  {
+    "id": "archeoutopia-index",
+    "title": "Archeoutopia Index",
+    "description": {
+      "it": "Modello composito per valutare la qualità del patrimonio culturale lungo i cammini e gli itinerari a piedi.",
+      "en": "Composite model for assessing cultural heritage quality along walking routes and trails."
+    },
+    "tags": [{ "it": "Cammini", "en": "Trails" }, { "it": "Indicatori", "en": "Indicators" }],
+    "url": "",
+    "year": 2025,
+    "status": "attivo"
+  },
+  {
+    "id": "feudo-turistico",
+    "title": "Feudo Turistico Digitale",
+    "description": {
+      "it": "Modello di destinazione sovracomunale come unione virtuale di Pro Loco su base geo-storica, con geocruscotto e componenti di gaming.",
+      "en": "Supra-municipal destination model as a virtual union of Pro Loco associations on a geo-historical basis, with geocruscotto and gaming components."
+    },
+    "tags": [{ "it": "Destinazioni", "en": "Destinations" }, "Pro Loco"],
+    "url": "",
+    "year": 2026,
+    "status": "attivo"
+  },
+  {
+    "id": "digital-charterhouse",
+    "title": "Digital Charterhouse",
+    "description": {
+      "it": "Framework di apprendimento con GenAI (\"Lude et Labora\") per la didattica universitaria e la formazione sul patrimonio.",
+      "en": "GenAI learning framework (\"Lude et Labora\") for university teaching and heritage training."
+    },
+    "tags": ["GenAI", { "it": "Didattica", "en": "Teaching" }],
+    "url": "",
+    "year": 2026,
+    "status": "attivo"
+  }
+]

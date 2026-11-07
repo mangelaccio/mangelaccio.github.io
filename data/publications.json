@@ -1,0 +1,32 @@
+[
+  {
+    "title": "[Titolo della pubblicazione / Publication title]",
+    "authors": "M. Angelaccio, [coautori]",
+    "venue": { "it": "[Rivista / Conferenza]", "en": "[Journal / Conference]" },
+    "year": 2026,
+    "type": "article",
+    "url": "docs/[nomefile].pdf",
+    "doi": ""
+  },
+  {
+    "title": "Il Turismo che include",
+    "authors": "M. Angelaccio",
+    "venue": {
+      "it": "Libro sulla metodologia SST per il turismo sostenibile e inclusivo",
+      "en": "Book on the SST methodology for sustainable and inclusive tourism (in Italian)"
+    },
+    "year": 2025,
+    "type": "book",
+    "url": "docs/[nomefile].pdf",
+    "doi": ""
+  },
+  {
+    "title": "[Titolo del rapporto o documento di progetto / Report title]",
+    "authors": "Smartourism & AI Research Lab",
+    "venue": { "it": "[Descrizione breve]", "en": "[Short description]" },
+    "year": 2024,
+    "type": "report",
+    "url": "docs/[nomefile].pdf",
+    "doi": ""
+  }
+]
