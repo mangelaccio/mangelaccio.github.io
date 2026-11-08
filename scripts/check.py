@@ -83,6 +83,8 @@ if pubs is not None:
             if p.get("type") not in VALID_TYPES:
                 errors.append(f"{where}: 'type' deve essere uno tra {sorted(VALID_TYPES)}")
             check_local_link(p.get("url", ""), where)
+            if p.get("cover"):
+                check_local_link(p["cover"], where + " [cover]")
 
 # ---- file base ----
 for required in ["index.html", "img/studio-outdoor-1.jpg", "img/studio-outdoor-2.jpg"]:

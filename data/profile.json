@@ -1,0 +1,168 @@
+{
+  "name": "Michele Angelaccio",
+  "headline": {
+    "it": "Professore associato — Dipartimento di Ingegneria dell'Impresa \"Mario Lucertini\"",
+    "en": "Associate Professor — Department of Enterprise Engineering \"Mario Lucertini\""
+  },
+  "location": {
+    "it": "Roma, Italia",
+    "en": "Rome, Italy"
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/michele-angelaccio-53166816",
+    "orcid": "https://orcid.org/0000-0002-8644-3472",
+    "github": "https://github.com/mangelaccio",
+    "email": "angelaccio@dii.uniroma2.it"
+  },
+  "bio": {
+    "it": [
+      "Professore associato di Informatica all'Università degli Studi di Roma \"Tor Vergata\" dal 2001, dove ho fondato e dirigo il laboratorio di ricerca su sistemi informativi web e distribuiti, oggi Smartourism & AI Research Lab, e insegno programmazione web e turismo digitale ai corsi di Ingegneria Gestionale.",
+      "Mi sono formato all'Università di Pisa in Informatica (laurea con 110 e lode) e ho iniziato l'attività di ricerca alla Sapienza con un post-dottorato sull'integrazione e la modellazione di schemi di basi di dati Entità-Relazione. Negli anni ho lavorato su sistemi peer-to-peer per il lavoro cooperativo, framework per applicazioni mobili, interfacce web e GIS adattive, calcolo parallelo, fino a coordinare il progetto europeo FP6 WORKPAD (2005–2009) sul supporto informatico agli operatori nelle emergenze.",
+      "Dal 2014 coordino il progetto didattico e di ricerca in Smart Tourism, con una rete di sedi periferiche (Sicilia e Molise) e con la collaborazione di enti locali, Pro Loco e imprese. Da anni mi occupo di analisi dei dati turistici per il turismo sostenibile e lento, di cruscotti conversazionali basati su AI generativa (il paradigma geocruscotto), di sistemi geospaziali e di progettazione di proposte di finanziamento europee; dal 2025 sono coordinatore locale del progetto Erasmus+ REBOOT."
+    ],
+    "en": [
+      "Associate Professor of Computer Science at the University of Rome \"Tor Vergata\" since 2001, where I founded and lead the research lab on web and distributed information systems, today the Smartourism & AI Research Lab, and teach web programming and digital tourism in the Management Engineering programmes.",
+      "I studied Computer Science at the University of Pisa (degree with honours, 110 cum laude) and began my research career at Sapienza University with a post-doc on Entity-Relationship database schema integration and modelling. Over the years I have worked on peer-to-peer systems for cooperative work, mobile application frameworks, adaptive web and GIS interfaces and parallel computing, and coordinated the EU FP6 project WORKPAD (2005–2009) on software support for human operators in emergency scenarios.",
+      "Since 2014 I coordinate the educational and research project in Smart Tourism, with a network of peripheral sites (Sicily and Molise) and collaborations with local authorities, Pro Loco associations and companies. My current work covers tourism data analysis for sustainable and slow tourism, conversational dashboards based on generative AI (the geocruscotto paradigm), geospatial systems and the design of European funding proposals; since 2025 I am local coordinator of the Erasmus+ REBOOT project."
+    ]
+  },
+  "interests": [
+    {
+      "it": "Turismo sostenibile e lento",
+      "en": "Sustainable & slow tourism"
+    },
+    {
+      "it": "Smart tourism",
+      "en": "Smart tourism"
+    },
+    {
+      "it": "AI generativa e cruscotti conversazionali",
+      "en": "Generative AI & conversational dashboards"
+    },
+    {
+      "it": "Sistemi geospaziali (GIS, Leaflet.js)",
+      "en": "Geospatial systems (GIS, Leaflet.js)"
+    },
+    {
+      "it": "Sistemi informativi web e distribuiti",
+      "en": "Web & distributed information systems"
+    },
+    {
+      "it": "Sistemi peer-to-peer cooperativi",
+      "en": "Cooperative peer-to-peer systems"
+    },
+    {
+      "it": "Internet of Foods",
+      "en": "Internet of Foods"
+    },
+    {
+      "it": "Game learning e didattica attiva",
+      "en": "Game learning & active learning"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2025 – oggi",
+      "period_en": "2025 – present",
+      "role": {
+        "it": "Coordinatore locale del progetto Erasmus+ REBOOT",
+        "en": "Local coordinator, Erasmus+ REBOOT project"
+      },
+      "org": "Università di Roma \"Tor Vergata\"",
+      "note": {
+        "it": "Applicazione della piattaforma ReBoot ai contenuti del patrimonio culturale italiano",
+        "en": "Applying the ReBoot platform to Italian heritage content"
+      }
+    },
+    {
+      "period": "2018 – 2021",
+      "period_en": "2018 – 2018",
+      "role": {
+        "it": "Coordinatore locale del progetto Erasmus+ ADHOC",
+        "en": "Local coordinator, Erasmus+ ADHOC project"
+      },
+      "org": "Università di Roma \"Tor Vergata\"",
+      "note": {
+        "it": "Applicazione della metodologia ADHOC ai contenuti del patrimonio culturale italiano",
+        "en": "Applying the ADHOC metodology to Italian heritage content"
+      }
+    },
+    {
+      "period": "2014 – oggi",
+      "period_en": "2014 – present",
+      "role": {
+        "it": "Coordinatore del progetto didattico e di ricerca in Smart Tourism",
+        "en": "Coordinator of the Smart Tourism educational and research project"
+      },
+      "org": "Smartourism & AI Research Lab, Tor Vergata",
+      "note": {
+        "it": "Sedi periferiche: archeologia digitale in Sicilia (Sinagra, ME) e turismo sociale e rurale in Molise (Castelpetroso, IS)",
+        "en": "Peripheral sites: digital archaeology in Sicily (Sinagra, ME) and social & rural tourism in Molise (Castelpetroso, IS)"
+      }
+    },
+    {
+      "period": "2001 – oggi",
+      "period_en": "2001 – present",
+      "role": {
+        "it": "Professore associato di Informatica",
+        "en": "Associate Professor of Computer Science"
+      },
+      "org": "Università di Roma \"Tor Vergata\", Dipartimento di Ingegneria dell'Impresa",
+      "note": {
+        "it": "Responsabile del laboratorio Web and Distributed Information Systems; docente di programmazione web e turismo digitale",
+        "en": "Chair of the Web and Distributed Information Systems lab; lecturer in web programming and digital tourism"
+      }
+    },
+    {
+      "period": "2005 – 2009",
+      "period_en": "2005 – 2009",
+      "role": {
+        "it": "Coordinatore del progetto europeo FP6 WORKPAD",
+        "en": "Coordinator of the EU FP6 project WORKPAD"
+      },
+      "org": "FP6-2005-IST-5",
+      "note": {
+        "it": "Infrastruttura software peer-to-peer adattiva a supporto del lavoro cooperativo degli operatori in scenari di emergenza e disastro",
+        "en": "An adaptive peer-to-peer software infrastructure supporting collaborative work of human operators in emergency and disaster scenarios"
+      }
+    },
+    {
+      "period": "1990 – 1992",
+      "period_en": "1990 – 1992",
+      "role": {
+        "it": "Post-dottorato",
+        "en": "Post-doc"
+      },
+      "org": "Università di Roma \"La Sapienza\"",
+      "note": {
+        "it": "Integrazione e modellazione di schemi di basi di dati Entità-Relazione",
+        "en": "E-R database schema integration and modelling"
+      }
+    }
+  ],
+  "education": [
+    {
+      "period": "1980 – 1987",
+      "period_en": "1980 – 1987",
+      "role": {
+        "it": "Laurea in Informatica (Scienze dell'Informazione) — 110 e lode",
+        "en": "Degree in Computer Science — 110 cum laude"
+      },
+      "org": "Università di Pisa",
+      "note": {
+        "it": "",
+        "en": ""
+      }
+    }
+  ],
+  "languages": [
+    {
+      "it": "Italiano (madrelingua)",
+      "en": "Italian (native)"
+    },
+    {
+      "it": "Inglese",
+      "en": "English"
+    }
+  ]
+}

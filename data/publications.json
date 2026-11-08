@@ -1,14 +1,152 @@
 [
   {
-    "title": "[Titolo della pubblicazione / Publication title]",
-    "authors": "M. Angelaccio, [coautori]",
-    "venue": { "it": "[Rivista / Conferenza]", "en": "[Journal / Conference]" },
+    "id": "digital-charterhouse-2026",
+    "title": "From Ora et Labora to Lude et Labora: The Digital Charterhouse as a Human-Centric GenAI Framework for NEET Reintegration and Territorial Digital Tourism",
+    "authors": "M. Angelaccio, M. Fasolo",
+    "venue": {
+      "it": "eLmL 2026 — International Conference on Mobile, Hybrid, and On-line Learning (IARIA)",
+      "en": "eLmL 2026 — International Conference on Mobile, Hybrid, and On-line Learning (IARIA)"
+    },
     "year": 2026,
     "type": "article",
-    "url": "docs/[nomefile].pdf",
-    "doi": ""
+    "url": "docs/Angelaccio_Fasolo_2026_Digital_Charterhouse_eLmL.pdf",
+    "doi": "",
+    "project": "digital-charterhouse",
+    "keywords": [
+      "Generative AI",
+      "Digital Charterhouse",
+      "active learning",
+      "NEET reintegration",
+      "digital tourism",
+      "project-based learning",
+      "gamification",
+      "ethical AI"
+    ],
+    "abstract": {
+      "it": "Il paper introduce la Digital Charterhouse, un framework che ancora la GenAI a un manifesto etico e alla rigenerazione economica locale, e la sua istanza pilota Lude et Labora, rivolta ai NEET delle regioni italiane: il principio monastico Ora et Labora viene reinterpretato nella triade Play–Connect–Work per formare una nuova generazione di AI Tourism Designer. Un'analisi comparativa quantitativa attribuisce al modello un punteggio 2,53 volte superiore a un corso GenAI standard sulle dimensioni di sostenibilità, etica e impatto economico.",
+      "en": "The paper introduces the Digital Charterhouse, a framework anchoring GenAI within an ethical manifesto and local economic regeneration, and its pilot instantiation Lude et Labora, targeting NEETs across Italian regions: the monastic principle Ora et Labora is reinterpreted as a Play–Connect–Work triad to train a new generation of AI Tourism Designers. A quantitative comparative analysis scores the model 2.53× higher than a standard GenAI course across sustainability, ethics and economic-impact dimensions."
+    }
   },
   {
+    "id": "cultural-mobility-castelli-2025",
+    "title": "Inter-Village Cultural Mobility: Towards a Sustainable Cultural Metro Model in the Castelli Romani",
+    "authors": "M. Angelaccio, L. Zappitelli",
+    "venue": {
+      "it": "CEEE 2025 — The First International Conference on Global Environment Ecosystem Equilibrium (IARIA), ISBN 978-1-68558-331-6",
+      "en": "CEEE 2025 — The First International Conference on Global Environment Ecosystem Equilibrium (IARIA), ISBN 978-1-68558-331-6"
+    },
+    "year": 2025,
+    "type": "article",
+    "url": "docs/Angelaccio_Zappitelli_2025_Cultural_Mobility_CEEE.pdf",
+    "doi": "",
+    "project": "geocruscotto",
+    "keywords": [
+      "Sustainable Mobility",
+      "Cultural Tourism",
+      "Genetic Algorithms",
+      "Urban and Regional Planning",
+      "Cultural Metro",
+      "LeafletJS"
+    ],
+    "abstract": {
+      "it": "Il paper introduce il concetto di Inter-Village Cultural Mobility, estendendo il modello della Cultural Metro dai contesti urbani a una rete di borghi dei Castelli Romani collegati da anelli di trasporto sostenibile (navette + trekking). Una piattaforma web in LeafletJS consente la visualizzazione interattiva dei percorsi e il confronto tra l'opzione auto e quella bus/trekking tramite indicatori SOR. Le simulazioni su un anello rappresentativo indicano una riduzione del 65% delle emissioni di CO2, un indice di accessibilità che sale da 0,58 a 0,91 e un'integrazione del 47% con la rete escursionistica; i test di usabilità con dodici partecipanti confermano il valore delle visualizzazioni interattive.",
+      "en": "The paper introduces the concept of Inter-Village Cultural Mobility, extending the Cultural Metro model from urban heritage contexts to a network of Castelli Romani villages connected through sustainable ring routes (shuttles + trekking). A LeafletJS web platform enables interactive route visualization and car-vs-bus/trekking comparison through SOR indicators. Simulations on a representative ring route indicate a 65% reduction in CO2 emissions, an accessibility index rising from 0.58 to 0.91 and 47% integration with trekking networks; usability tests with twelve participants confirm the value of interactive visualizations."
+    }
+  },
+  {
+    "id": "sroi-slow-tourism-events-2024",
+    "title": "Predicting Sustainability for Slow Tourism Events",
+    "authors": "M. Angelaccio, L. Zappitelli",
+    "venue": {
+      "it": "Smart Tourism, vol. 5, n. 2, art. 2967, dicembre 2024 (Asia Pacific Academy of Science) — open access CC BY",
+      "en": "Smart Tourism, vol. 5, no. 2, art. 2967, December 2024 (Asia Pacific Academy of Science) — open access CC BY"
+    },
+    "year": 2024,
+    "type": "article",
+    "url": "docs/Angelaccio_Zappitelli_2024_SROI_Slow_Tourism_SmartTourism.pdf",
+    "doi": "10.54517/st2967",
+    "project": "lazio-lento",
+    "keywords": [
+      "SROI method",
+      "slow tourism",
+      "sustainable indicators",
+      "socio-economic outcomes",
+      "revenue analysis"
+    ],
+    "abstract": {
+      "it": "La crescente domanda di turismo lento nelle aree rurali spinge molte organizzazioni a riorganizzare gli eventi con strategie capaci di prevedere l'impatto dei nuovi visitatori e stakeholder, dove la classica analisi costi-benefici fatica a cogliere gli effetti socio-economici più rilevanti. Il paper applica una versione rivista del metodo SROI (Social Return on Investment) a tre casi di piccoli borghi intorno a Roma, calcolando il valore SROI di una serie di eventi e confrontandolo lungo un insieme di fasi dedicate alla pianificazione del turismo lento (SMARTOUR SROI). La metodologia fornisce sempre una valutazione positiva, mettendo in evidenza le principali criticità dell'impatto del turismo lento in questi scenari emergenti; il caso del treno storico ottiene il risultato migliore.",
+      "en": "The increasing demand for slow tourism in rural regions is leading many organizations to reorganize events with strategies able to predict the impact of incoming visitors and stakeholders, where typical benefit-cost analysis struggles to capture the most relevant socio-economic impacts. The paper applies a revised SROI (Social Return on Investment) method to three cases of small villages around Rome, computing the SROI value of a set of events and comparing it across a set of stages tailored to slow tourism planning (SMARTOUR SROI). The methodology always yields a positive evaluation while highlighting the main issues related to the impact of slow tourism in such emerging scenarios; the historical-train case gives the best result."
+    }
+  },
+  {
+    "id": "feudo-turistico-athens-2023",
+    "title": "Slow Tourism Project to Redistribute Tourist Demand in Lazio: Cost-Benefit Analysis Using Monte Carlo Simulation",
+    "authors": "M. Angelaccio, U. Hajiyeva",
+    "venue": {
+      "it": "Athens Journal of Tourism, vol. 10, n. 4, dicembre 2023, pp. 243–258",
+      "en": "Athens Journal of Tourism, vol. 10, no. 4, December 2023, pp. 243–258"
+    },
+    "year": 2023,
+    "type": "article",
+    "url": "docs/Angelaccio_Hajiyeva_2023_Feudo_Turistico_AthensJT.pdf",
+    "doi": "10.30958/ajt.10-4-1",
+    "project": "feudo-turistico",
+    "keywords": [
+      "slow tourism",
+      "cost-benefit analysis",
+      "discounted cash flow",
+      "Monte Carlo Simulation",
+      "Feudo Turistico"
+    ],
+    "abstract": {
+      "it": "Il paper valuta vantaggi e svantaggi finanziari del progetto Feudo Turistico, che propone una destinazione di turismo lento tra Roma e Fiuggi per ridurre la concentrazione della domanda nei due centri e ridistribuirla nel territorio laziale con esperienze di turismo culturale e attivo. La fattibilità è verificata con un'analisi costi-benefici basata su simulazione Monte Carlo (10.000 prove) che stima valore attuale netto, tasso interno di rendimento e periodo di recupero attualizzato tra scenari pessimistici e ottimistici. I risultati indicano un modello di business finanziariamente autosufficiente, in grado di ripagare l'investimento iniziale entro pochi anni con alta probabilità.",
+      "en": "The paper examines the financial advantages and disadvantages of the Feudo Turistico project, which proposes a slow tourism destination between Rome and Fiuggi to reduce the concentration of tourist demand in the two centres and redistribute it across the Lazio region through cultural and active tourism experiences. Feasibility is assessed with a cost-benefit analysis based on Monte Carlo Simulation (10,000 trials) estimating net present value, internal rate of return and discounted payback period between pessimistic and optimistic scenarios. Results indicate a financially self-sufficient business model, able to repay the initial investment within a few years with high probability."
+    }
+  },
+  {
+    "id": "turismo-digitale-generativo-2026",
+    "title": "Turismo digitale generativo. Progettare esperienze culturali con prompt engineering, context-aware computing e game learning. Il caso delle passeggiate romane: dal Grand Tour all'Intelligenza Artificiale",
+    "authors": "M. Angelaccio",
+    "venue": {
+      "it": "Universitalia, 11 marzo 2026 — 201 pagine, copertina flessibile — ISBN 978-88-3293-915-6",
+      "en": "Universitalia, 11 March 2026 — 201 pages, paperback (in Italian) — ISBN 978-88-3293-915-6"
+    },
+    "year": 2026,
+    "type": "book",
+    "url": "",
+    "doi": "",
+    "isbn": "9788832939156",
+    "cover": "img/copertina-turismo-digitale-generativo.jpg",
+    "buy": {
+      "label": {
+        "it": "Acquista su Amazon",
+        "en": "Buy on Amazon"
+      },
+      "url": "https://www.amazon.it/generativo-Progettare-engineering-context-aware-passeggiate/dp/8832939150"
+    },
+    "project": "geocruscotto",
+    "keywords": [
+      "Prompt engineering",
+      "Context-aware computing",
+      "Game learning",
+      "GenAI",
+      {
+        "it": "Passeggiate romane",
+        "en": "Roman walks"
+      },
+      "Grand Tour",
+      {
+        "it": "Turismo culturale",
+        "en": "Cultural tourism"
+      }
+    ],
+    "abstract": {
+      "it": "Viviamo in un'epoca di trasformazioni radicali. Il turismo culturale, da sempre luogo di incontro tra identità, memoria collettiva e desiderio di scoperta, si trova oggi al centro di una convergenza tecnologica senza precedenti. L'Intelligenza Artificiale, il Prompt Engineering, i Large Language Models e le metodologie di Game Learning non sono più strumenti del futuro: sono realtà operative che ridisegnano le modalità con cui i visitatori si relazionano al patrimonio culturale, e che impongono alle istituzioni formative un ripensamento profondo dei propri paradigmi didattici.",
+      "en": "We live in an age of radical transformation. Cultural tourism — long a meeting point of identity, collective memory and the desire for discovery — now sits at the centre of an unprecedented technological convergence. Artificial Intelligence, Prompt Engineering, Large Language Models and Game Learning methodologies are no longer tools of the future: they are operational realities reshaping how visitors relate to cultural heritage, and they demand that educational institutions deeply rethink their teaching paradigms."
+    }
+  },
+  {
+    "id": "turismo-che-include",
     "title": "Il Turismo che include",
     "authors": "M. Angelaccio",
     "venue": {
@@ -17,15 +155,6 @@
     },
     "year": 2025,
     "type": "book",
-    "url": "docs/[nomefile].pdf",
-    "doi": ""
-  },
-  {
-    "title": "[Titolo del rapporto o documento di progetto / Report title]",
-    "authors": "Smartourism & AI Research Lab",
-    "venue": { "it": "[Descrizione breve]", "en": "[Short description]" },
-    "year": 2024,
-    "type": "report",
     "url": "docs/[nomefile].pdf",
     "doi": ""
   }
